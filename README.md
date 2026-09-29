@@ -1,7 +1,7 @@
-<br>👨‍💻 DevOps Engineer | Internet Technology Engineer<br>🏢 Data Center Team Member at Universidad de Colima<br><br>I design and deploy scalable infrastructure, focusing on bridging development and operations through automation, Infrastructure as Code, and observability.<br><br>My technical interests include Kubernetes, Docker, CI/CD, cloud infrastructure, and reliable systems. I have hands-on experience with Terraform, AWS infrastructure provisioning, containerized environments, and monitoring solutions using Prometheus, Grafana, and Loki.<br><br>🎯 Goal: Continuously improve my DevOps and AWS skills, strengthen my cloud infrastructure knowledge, and build reliable, scalable, and automated systems.
+<h2>👨‍💻 DevOps Engineer | Internet Technology Engineer<h2>🏢 Data Center Team Member at Universidad de Colima<br><br>I design and deploy scalable infrastructure, focusing on bridging development and operations through automation, Infrastructure as Code, and observability.<br><br>My technical interests include Kubernetes, Docker, CI/CD, cloud infrastructure, and reliable systems. I have hands-on experience with Terraform, AWS infrastructure provisioning, containerized environments, and monitoring solutions using Prometheus, Grafana, and Loki.<br><br>🎯 Goal: Continuously improve my DevOps and AWS skills, strengthen my cloud infrastructure knowledge, and build reliable, scalable, and automated systems.
 
 
-## 🌐 Socials:
+## 🤝 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aj__escalera) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armando-jersain-ibarra-escalera-6ba075256/) 
 
 # 💻 Tech Stack:
