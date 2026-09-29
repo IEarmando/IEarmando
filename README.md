@@ -1,4 +1,4 @@
-## 👨‍💻 DevOps Engineer | Internet Technology Engineer
+## 👨‍💻 DevOps | Internet Technology Engineer
 ### 🏢 Data Center Team Member at Universidad de Colima
 <br>I design and deploy scalable infrastructure, focusing on bridging development and operations through automation, Infrastructure as Code, and observability.<br><br>My technical interests include Kubernetes, Docker, CI/CD, cloud infrastructure, and reliable systems. I have hands-on experience with Terraform, AWS infrastructure provisioning, containerized environments, and monitoring solutions using Prometheus, Grafana, and Loki.<br><br>🎯 Goal: Continuously improve my DevOps and AWS skills, strengthen my cloud infrastructure knowledge, and build reliable, scalable, and automated systems.
 
